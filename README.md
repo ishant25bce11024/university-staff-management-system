@@ -1,9 +1,9 @@
 University Database Management System
 
-Overview of the Project
+#Overview of the Project
 This project is a command-line application that manages university data, including teachers, students, and other staff members. It uses SQLite for persistent storage and provides separate menu-driven modules for different types of users.
 
-Features 
+#Features 
 
 Add, edit, delete, and display teachers.
 
@@ -19,15 +19,15 @@ Display staff by designation and view details by employee ID.
 
 Clear, menu-driven interface for user inputs and operations.
 
-Technologies/Tools Used
+#Technologies/Tools Used
 
 Python 3
 
 SQLite3
 
-Command-line interface
+#Command-line interface
 
-Steps to Install & Run the Project
+#Steps to Install & Run the Project
 Ensure Python 3 and SQLite3 are installed on your system.
 
 Download and place all code files (.py) in your directory.
